@@ -1,0 +1,21 @@
+{
+    "name": "gavinsky/number",
+    "description": "数字转化",
+    "type": "library",
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "hgg hh",
+            "email": "hhh@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+    "psr-4": {
+        "numberFormat\\": "src/"
+    }
+}
+}
